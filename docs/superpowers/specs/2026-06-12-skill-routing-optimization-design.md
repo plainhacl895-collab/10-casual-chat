@@ -1,3 +1,9 @@
+---
+title: Skill 路由系统优化设计
+description: 对全局 19 个 Claude Code 技能进行路由优化，提出 6 大分类的分层结构及 description 重写规范
+tags: [skill-routing, optimization, design, architecture]
+---
+
 # Skill 路由系统优化设计
 
 参照视频 "Agent Skill过多？4招提升命中率" 的诊断框架，对全局 19 个 Claude Code 技能进行路由优化。

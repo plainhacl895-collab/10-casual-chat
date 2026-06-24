@@ -1,3 +1,9 @@
+---
+title: Skill 路由系统优化 实施计划
+description: 为 19 个全局技能增加 category 分层字段，重写 description，改造 skill-manager 安装脚本自动分类
+tags: [skill-routing, optimization, implementation-plan]
+---
+
 # Skill 路由系统优化 实施计划
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
